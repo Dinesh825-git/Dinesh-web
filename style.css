@@ -1,0 +1,27 @@
+/* Body ke liye styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 50px;
+}
+
+/* Heading ke liye styling */
+h1 {
+    color: #333;
+}
+
+/* Button ke liye styling */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
